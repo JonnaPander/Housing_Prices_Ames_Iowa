@@ -41,5 +41,6 @@ There are strong correlations between overall quality, year remodeled, and vario
 Such improvements may include:
 - Kitchen remodel
 - Additional living space or garage
-- A third bathroom
+
+Using linear regression, final accuracty scores for this model are 0.89 on the testing set and 0.92 on the training set.
 
